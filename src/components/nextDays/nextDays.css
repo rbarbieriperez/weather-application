@@ -1,0 +1,33 @@
+.next-days-section {
+  width: 100%;
+  font-family: "PT Sans", sans-serif;
+  text-align: center;
+  background-color: #0a1929;
+  color: white;
+  margin-top: -1rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.next-days-section h2 {
+  font-size: 2rem;
+}
+
+/*TABLE*/
+.main-table:hover {
+  cursor: pointer;
+}
+
+/*TABLE CELL*/
+.div-cell {
+  height: auto;
+  width: 5rem;
+}
+
+.div-cell img {
+  width: 32px;
+  height: 32px;
+  float: left;
+  margin-right: 0.5rem;
+  margin-top: -0.5rem;
+}

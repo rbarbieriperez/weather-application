@@ -1,0 +1,67 @@
+main {
+  background-color: #001e3c;
+  margin-top: 0px;
+  font-family: "PT Sans", sans-serif;
+  padding-top: 2rem;
+  text-align: center;
+  color: white;
+  font-size: 1.5rem;
+  padding-bottom: 5rem;
+}
+
+.location-input {
+  background-color: transparent;
+  color: white;
+  border: solid 1px white;
+  height: 25px;
+  font-family: "PT Sans", sans-serif;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.location-input::placeholder {
+  color: white;
+}
+
+.search-button {
+  margin-left: 1rem;
+  height: 35px;
+}
+
+.less-margin-top {
+  margin-top: -1rem;
+}
+
+/*LIST OF ALL COUNTRY CITIES*/
+.cities-visible-false {
+  visibility: hidden;
+}
+
+.cities-visible-true {
+  visibility: visible;
+}
+
+.cities-visible-true ul {
+  width: auto;
+  padding: 0px;
+}
+
+.cities-visible-true ul li {
+  list-style: none;
+  font-family: "Hubballi", cursive;
+  margin: 0px;
+  color: white;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cities-visible-true ul li:hover {
+  background-color: white;
+  opacity: 0.8;
+  cursor: pointer;
+  color: black;
+  width: 50%;
+}
+
+/*****/
