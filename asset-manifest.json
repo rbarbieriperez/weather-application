@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bdc2b952.css",
+    "main.js": "/static/js/main.befacc5c.js",
+    "static/js/787.cf49067b.chunk.js": "/static/js/787.cf49067b.chunk.js",
+    "static/media/wind.png": "/static/media/wind.bc52a02e680d65787877.png",
+    "static/media/humidity.png": "/static/media/humidity.ffe2b83c4f221bf25f1a.png",
+    "static/media/uv.png": "/static/media/uv.6ce02cab11d84f765375.png",
+    "static/media/wind-direction.png": "/static/media/wind-direction.43caba29e2c35e6b1826.png",
+    "static/media/thermometer.png": "/static/media/thermometer.b66904850476d9d0a4ca.png",
+    "static/media/water-drop.png": "/static/media/water-drop.b656b4f9880d7686aee3.png",
+    "static/media/cloud-computing.png": "/static/media/cloud-computing.d9c318d45ff6e583d29f.png",
+    "index.html": "/index.html",
+    "main.bdc2b952.css.map": "/static/css/main.bdc2b952.css.map",
+    "main.befacc5c.js.map": "/static/js/main.befacc5c.js.map",
+    "787.cf49067b.chunk.js.map": "/static/js/787.cf49067b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdc2b952.css",
+    "static/js/main.befacc5c.js"
+  ]
+}
