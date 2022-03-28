@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/weather-application/static/css/main.bdc2b952.css",
-    "main.js": "/weather-application/static/js/main.44a3c50b.js",
+    "main.css": "/weather-application/static/css/main.0cdf62a7.css",
+    "main.js": "/weather-application/static/js/main.ea1add54.js",
     "static/js/787.cf49067b.chunk.js": "/weather-application/static/js/787.cf49067b.chunk.js",
     "static/media/wind.png": "/weather-application/static/media/wind.bc52a02e680d65787877.png",
     "static/media/humidity.png": "/weather-application/static/media/humidity.ffe2b83c4f221bf25f1a.png",
     "static/media/uv.png": "/weather-application/static/media/uv.6ce02cab11d84f765375.png",
     "static/media/wind-direction.png": "/weather-application/static/media/wind-direction.43caba29e2c35e6b1826.png",
     "static/media/thermometer.png": "/weather-application/static/media/thermometer.b66904850476d9d0a4ca.png",
-    "static/media/water-drop.png": "/weather-application/static/media/water-drop.b656b4f9880d7686aee3.png",
     "static/media/cloud-computing.png": "/weather-application/static/media/cloud-computing.d9c318d45ff6e583d29f.png",
     "index.html": "/weather-application/index.html",
-    "main.bdc2b952.css.map": "/weather-application/static/css/main.bdc2b952.css.map",
-    "main.44a3c50b.js.map": "/weather-application/static/js/main.44a3c50b.js.map",
+    "main.0cdf62a7.css.map": "/weather-application/static/css/main.0cdf62a7.css.map",
+    "main.ea1add54.js.map": "/weather-application/static/js/main.ea1add54.js.map",
     "787.cf49067b.chunk.js.map": "/weather-application/static/js/787.cf49067b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bdc2b952.css",
-    "static/js/main.44a3c50b.js"
+    "static/css/main.0cdf62a7.css",
+    "static/js/main.ea1add54.js"
   ]
 }
